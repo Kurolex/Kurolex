@@ -1,4 +1,18 @@
-## Hi there 👋
+<h1>Hi, I'm Alexis! </h1>
+
+<h2>👨‍💻 Cybersecurity Projects</h2>
+
+- [Adversary Simulation & Detection Lab: Sliver C2 and LimaCharlie (SIEM)](https://github.com/Kurolex/LABURL)</b>
+
+<h2>📄 Certifications</h2>
+
+- *TBA*
+
+<h2>🤳 Let's Connect!</h2>
+
+[<img align="left" alt="Kurolex | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/alexis-coir-14b917217/
 
 <!--
 **Kurolex/Kurolex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
