@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
-- [Adversary Simulation & Detection Lab: Sliver C2 & LimaCharlie](https://github.com/Kurolex/red-blue-lab)</b>
+- [Adversary Simulation & SOC Detection Lab](https://github.com/Kurolex/red-blue-lab)</b>
 
 <h2>📄 Certifications</h2>
 
