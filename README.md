@@ -2,7 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
-- [Adversary Simulation & SOC Detection Lab](https://github.com/Kurolex/red-blue-lab)</b>
+- [Adversary Simulation & SOC Detection](https://github.com/Kurolex/red-blue-lab)</b>
+- [Applying Filters to SQL Queries](https://github.com/Kurolex/sql-lab)</b>
 
 <h2>📄 Certifications</h2>
 
